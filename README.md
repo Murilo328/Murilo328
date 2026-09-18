@@ -1,6 +1,6 @@
 # Olá, eu sou o Murilo 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) Noturno 3 - Semestre
 
 💻 Desenvolvedor em formação, com interesse em Desenvolvimento Web e Full Stack.
 
